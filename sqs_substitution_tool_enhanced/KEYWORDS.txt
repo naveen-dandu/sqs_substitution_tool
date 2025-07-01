@@ -1,0 +1,1 @@
+pseudo-sqs, vasp, poscar, materials, high-entropy, pymatgen, substitution, random structure, dft, MOF
