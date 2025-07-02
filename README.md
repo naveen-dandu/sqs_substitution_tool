@@ -115,7 +115,7 @@ MIT License. See LICENSE.
 Developed by Naveen Dandu, with integration in materials data workflows.
 
 ---
-## Zenodo DOI
+## ✅ Zenodo DOI
 
 [![DOI](https://zenodo.org/badge/1012158238.svg)](https://doi.org/10.5281/zenodo.15792366)
 
