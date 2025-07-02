@@ -1,3 +1,3 @@
-# SQS Substitution Tool Documentation
+# SQS Substitution Tool
 
-Coming soon: Installation and Usage Guides.
+This site documents the SQS-style substitution tool for generating VASP-compatible POSCAR structures.

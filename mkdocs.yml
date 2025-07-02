@@ -1,0 +1,8 @@
+site_name: SQS Substitution Tool
+repo_url: https://github.com/naveen-dandu/sqs_substitution_tool
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Example Usage: example_usage.md
