@@ -109,13 +109,6 @@ If you use this code or concept in your research, please cite:
 
 ---
 
-## 🏗️ Maintainers
-
-- **Naveen Dandu** – Research Asst. Prof, UIC / ANH Group  
-- **Prof. Anh Ngo** – PI, Applied Nano Hub for Theory & Experiment
-
----
-
 ## 🔗 Related Repos
 
 - [dft2ml_formatter](https://github.com/naveen-dandu/dft2ml_formatter_full)
